@@ -22,4 +22,4 @@ https://kshitijasharma.github.io/music_love/
 - Wavesurfer.js (for waveform rendering)
 - Font Awesome (for icons)
 
-## YOU CAN TRY PLAYING MY FAVORITE MUSIC!
+## YOU CAN TRY PLAYING MY FAVORITE MUSIC SHOWN AT THE SCREEN :)
