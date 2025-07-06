@@ -1,4 +1,4 @@
-# 🎶 Music Player Web App
+# 🎶 MUSICON : Music Player Web App
 
 A sleek, modern web-based music player with waveform visualization, album art, and playlist support. Built with HTML, CSS, JavaScript, and [Wavesurfer.js](https://wavesurfer-js.org/).
 
